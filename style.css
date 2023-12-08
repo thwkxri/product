@@ -84,23 +84,14 @@ body{
   }
 
 .internet-main{
-  
-  padding-top: 110px;
-  text-align: left;
   padding-left: 15px;
+  max-width: 1600px;
+  padding-top: 90px;
+  text-align: left; 
   color: white;
   font-size: 23px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
-.internet-content{
- 
-  max-width: 1600px;
-  padding-top: 25px;
-  text-align: left;
-
-}
-
 
 .site-content{
 
