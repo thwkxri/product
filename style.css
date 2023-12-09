@@ -180,9 +180,11 @@ body{
 
 .p_site_class{
   max-width: 1200px;
-  padding-left: 60px;
+  padding-left: 30px;
   padding-top: 17px;
   font-size: 15px;
+  list-style-type: none;
+  
   
 }
 
@@ -192,14 +194,24 @@ body{
   width: 300px;
   padding-top: 15px;
   margin-left: 15px;
+  
 }
 
 .p_site a{
   text-decoration: none;
   color: white;
   font-size: 15px;
+  
 }
 
 .p_site a:hover{
   text-decoration: underline;
 }
+
+.list_podpunct{
+  padding-top: 17px;
+  list-style-type: none;
+  padding-left: 15px;
+
+  
+  }
