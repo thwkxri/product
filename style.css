@@ -225,4 +225,9 @@ body{
     }
  }
 
- 
+ @media (max-width: 455px) {
+  .img_abz {  
+     height: 250px;      
+  }
+}
+
