@@ -186,6 +186,7 @@ body{
   list-style-type: none;
   
   
+  
 }
 
 .p_site{
@@ -216,3 +217,10 @@ body{
 
   
   }
+
+  @media (max-width: 360px) {
+    .p_site {
+       max-width: 100%;
+       padding-right: 15px;
+    }
+ }
