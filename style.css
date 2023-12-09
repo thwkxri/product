@@ -218,9 +218,9 @@ body{
   
   }
 
-  @media (max-width: 360px) {
+  @media (max-width: 370px) {
     .p_site {
        max-width: 100%;
-       padding-right: 15px;
+       padding-right: 15px;      
     }
  }
