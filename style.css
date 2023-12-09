@@ -191,7 +191,7 @@ body{
 .p_site{
   border: 2px solid white;
   margin-top: 55px;
-  width: 300px;
+  width: 400px;
   padding-top: 15px;
   margin-left: 15px;
   
@@ -212,7 +212,7 @@ body{
 .list_podpunct{
   padding-top: 17px;
   list-style-type: none;
-  padding-left: 15px;
+  padding-left: 13px;
 
   
   }
