@@ -4,13 +4,15 @@
 }
 
 body{
-  background-color: #383e4a;
+  background: url("img/back_3.jpg");
+  
+  
+  /* background-color: #383e4a; */
   width: 100%;
-  background-attachment: fixed;
+  
   background-repeat: repeat;
+  
 }
-
-
 
 .tittle_text{
   width: 100%; 
@@ -235,10 +237,18 @@ body{
   padding-top: 60px;
   text-decoration: none;
   color: white;
-  font-size: 18px;
+  font-size: 15px;
   display: inline-block;
 }
 
 .to_start a:hover{
   text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+  body {
+    
+   
+    
+  }
 }
