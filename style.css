@@ -8,7 +8,7 @@ body{
   
   
    background-color: #27304d; 
-  width: 100%;
+    width: 100%;
   
   
   
@@ -73,7 +73,7 @@ body{
 
 .internet-main{
   padding-left: 15px;
-  max-width: 1600px;
+  max-width: 1200px;
   padding-top: 65px;
   text-align: left; 
   font-size: 15px;
@@ -82,7 +82,7 @@ body{
 
 .site-content{
 
-  max-width: 1600px;
+  max-width: 1200px;
   padding-top: 55px;
   text-align: left; 
   
@@ -112,7 +112,7 @@ body{
 }
 
 .site_create{
-  max-width: 1600px;
+  max-width: 1200px;
   padding-top: 55px;
   text-align: left; 
   
@@ -129,7 +129,7 @@ body{
 }
 
 .after_logos{
-  max-width: 1600px;
+  max-width: 1200px;
   padding-top: 35px;
   padding-left: 15px;
   text-align: left; 
@@ -146,7 +146,7 @@ body{
 }
 
 .ITOGI{
-    max-width: 1600px;
+    max-width: 1200px;
     padding-top: 55px; 
     padding-left: 15px;  
     text-align: left; 
