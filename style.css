@@ -4,14 +4,13 @@
 }
 
 body{
-  background: url("img/back_3.jpg");
+  /* background: url("img/back_3.jpg"); */
   
   
-  /* background-color: #383e4a; */
+   background-color: #27304d; 
   width: 100%;
   
-  background-repeat: repeat;
-  background-attachment: fixed;
+  
   
 }
 
