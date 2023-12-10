@@ -10,6 +10,11 @@ body{
   background-repeat: repeat;
 }
 
+.cap_img{
+  width: 100%;
+  height: 200px;
+  
+}
 
 .tittle_text{
   width: 100%; 
@@ -73,7 +78,6 @@ body{
   max-width: 1600px;
   padding-top: 65px;
   text-align: left; 
- 
   font-size: 15px;
   
 }
@@ -231,3 +235,14 @@ body{
   }
 }
 
+.to_start a{
+  padding-top: 60px;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  display: inline-block;
+}
+
+.to_start a:hover{
+  text-decoration: underline;
+}
