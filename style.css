@@ -205,11 +205,13 @@ body{
   color: white;
   font-size: 15px;
   display: inline-block;
+
   
 }
 
 .p_site a:hover{
-  text-decoration: underline;
+  
+  color: #bbbbbb;
 }
 
 .list_podpunct{
@@ -234,13 +236,23 @@ body{
 }
 
 .to_start a{
-  padding-top: 60px;
+ 
   text-decoration: none;
   color: white;
-  font-size: 15px;
+  font-size: 17px;
   display: inline-block;
+  
+
 }
 
 .to_start a:hover{
-  text-decoration: underline;
+  
+  color: #bbbbbb;
+}
+
+
+.to_start{
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 30px;
 }
