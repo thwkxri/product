@@ -150,7 +150,7 @@ body{
     padding-top: 55px; 
     padding-left: 15px;  
     text-align: left; 
-    padding-bottom: 30px;
+    
     font-size: 15px;
     
   }
@@ -254,7 +254,7 @@ body{
 .to_start{
   
   padding-left: 15px;
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 55px;
+  padding-bottom: 15px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
