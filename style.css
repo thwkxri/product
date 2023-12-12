@@ -149,8 +149,7 @@ body{
     max-width: 1200px;
     padding-top: 55px; 
     padding-left: 15px;  
-    text-align: left; 
-    
+    text-align: left;   
     font-size: 15px;
     
   }
@@ -254,7 +253,7 @@ body{
 .to_start{
   
   padding-left: 15px;
-  padding-top: 55px;
+  padding-top: 35px;
   padding-bottom: 15px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -275,8 +274,9 @@ body{
 }
 
 #callback:after {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   content: 'Интересный факт';
-  margin-top: 55px;
+  margin-top: 27.5px;
   background-color: skyblue;
   text-align: center;
   border-radius: 0 0 8px 8px;
