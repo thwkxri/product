@@ -286,6 +286,7 @@ body{
   left: 300px;
   transform: rotate(-90deg);
   transform-origin: 0 0;
+  height: 25px;
 }
 
 #callback:hover {
