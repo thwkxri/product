@@ -14,6 +14,10 @@ body,html{
   width: 100%;
 }
 
+.container{
+  width: 80%;
+}
+
 .title{
   text-align: center;
   padding-top: 80px;
@@ -226,4 +230,25 @@ padding-top: 10px;
 .to-start a:hover{
   text-decoration: underline;
   color: gray;
+}
+
+@media (max-width: 1000px){
+  .menu{
+    border-bottom: 2px solid black;
+
+ 
+  }
+
+  .menu-list{
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media(max-width:950px){
+  .title-internet{
+    word-wrap: break-word;
+    white-space: normal;
+    overflow-wrap: break-word;
+  }
 }
