@@ -8,6 +8,7 @@
   margin: 0;
 }
 body,html{
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -41,7 +42,7 @@ body,html{
 }
 
 .menu-list{
-  margin: 0 auto;
+ 
   width: 100%;
   text-align: center;
   display: flex;
@@ -67,7 +68,6 @@ body,html{
 }
 
 .menu-list-link:hover{
-  color: grey;
   text-decoration: underline;
 }
 
@@ -95,7 +95,7 @@ body,html{
 
 .paragraph-site-body{
   padding-top: 50px;
-  margin: 0 auto;
+  
   width: 90%;
   text-align: left;
   padding-top: 10px
@@ -122,7 +122,7 @@ body,html{
 
 .site-work{
   padding-top: 10px;
-  margin: 0 auto;
+  
   width: 90%;
   text-align: left;
 }
@@ -137,21 +137,21 @@ body,html{
 }
 
 .site-create{
+
   padding-top: 50px;
-  margin: 0 auto;
-  width: 90%;
+
+  width: 100%;
   
 }
 
 .site-create-img{
-  width: 60%;;
+  width: 60%;
   height: 500px;
   padding-top: 10px;
+
 }
-
-
-
 .site-create-list{
+  padding-left: 35px;
   text-align: left;
   list-style-type: none;
 }
@@ -182,12 +182,12 @@ padding-top: 10px;
   margin: 0 auto;
 }
 
-.css-title,.JS-title{
-  padding-top: 15px;
+.html-title,.css-title,.JS-title{
+  padding-top: 20px;
 }
 
 .after-logos{
-  padding-top: 15px;
+  padding-top: 20px;
   text-align: left;
 }
 
@@ -230,7 +230,6 @@ padding-top: 10px;
 
 .to-start a:hover{
   text-decoration: underline;
-  color: gray;
 }
 
 @media(max-width: 1260px){
