@@ -30,7 +30,7 @@ body,html{
 }
 
 .title-img{
-  width: 800px;
+  width: 60%;
   height: 500px;
 
 }
@@ -77,14 +77,14 @@ body,html{
 }
 
 .img-internet{
-  width: 800px;
+  width: 60%;
   height: 500px;
   padding-top: 10px;
 }
 
 .paragraph-internet{
   margin: 0 auto;
-  width: 1000px;
+  width: 90%;
   text-align: left;
   padding-top: 10px
 }
@@ -96,13 +96,13 @@ body,html{
 .paragraph-site-body{
   padding-top: 50px;
   margin: 0 auto;
-  width: 1000px;
+  width: 90%;
   text-align: left;
   padding-top: 10px
 }
 
 .site-body-img{
-  width: 800px;
+  width: 60%;
   height: 500px;
   padding-top: 10px;
 }
@@ -123,7 +123,7 @@ body,html{
 .site-work{
   padding-top: 10px;
   margin: 0 auto;
-  width: 1000px;
+  width: 90%;
   text-align: left;
 }
 
@@ -139,12 +139,12 @@ body,html{
 .site-create{
   padding-top: 50px;
   margin: 0 auto;
-  width: 1000px;
+  width: 90%;
   
 }
 
 .site-create-img{
-  width: 800px;
+  width: 60%;;
   height: 500px;
   padding-top: 10px;
 }
@@ -171,14 +171,14 @@ padding-top: 10px;
 
 .HTML,.CSS,.JS{
 
-  width: 170px;
+  width: 12%;
   height: 170px;
 
 }
 
 .about-html,.about-css,.about-js{
   text-align: center;
-  width: 500px;
+  width: 25%;
   margin: 0 auto;
 }
 
@@ -208,12 +208,12 @@ padding-top: 10px;
 .ITOGI{
   padding-top: 50px;
   margin: 0 auto;
-  width: 1000px;
+  width: 90%;
   
 }
 
 .itogi-img{
-  width: 800px;
+  width: 60%;
   height: 500px;
   padding-top: 10px;
 }
@@ -233,23 +233,3 @@ padding-top: 10px;
   color: gray;
 }
 
-@media (max-width: 1000px){
-  .menu{
-    border-bottom: 2px solid black;
-
- 
-  }
-
-  .menu-list{
-    display: flex;
-    flex-direction: column;
-  }
-}
-
-@media(max-width:950px){
-  .title-internet{
-    word-wrap: break-word;
-    white-space: normal;
-    overflow-wrap: break-word;
-  }
-}
