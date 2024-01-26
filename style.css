@@ -171,14 +171,14 @@ padding-top: 10px;
 
 .HTML,.CSS,.JS{
 
-  width: 12%;
+  width: 170px;
   height: 170px;
 
 }
 
 .about-html,.about-css,.about-js{
   text-align: center;
-  width: 25%;
+  width: 45%;
   margin: 0 auto;
 }
 
@@ -233,3 +233,25 @@ padding-top: 10px;
   color: gray;
 }
 
+@media(max-width: 1260px){
+  .img-internet,.title-img,.site-create-img,.itogi-img,.site-body-img{
+    width: 100%;
+    height: 500px;
+  }
+}
+
+@media(max-width: 700px){
+  .about-html,.about-css,.about-js{
+    width: 80%;
+  }
+  .menu-list{
+    display: block;
+  }
+}
+
+@media(max-width: 800px){
+  .img-internet,.title-img,.site-create-img,.itogi-img,.site-body-img{
+    width: 100%;
+    height: 250px;
+  }
+}
