@@ -166,9 +166,14 @@ body, html {
   padding-top: 25px;
 }
 
+.front-logos{
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+}
 
-.html-title {
-  padding-top: 10px;
+.html-info, .css-info, .js-info{
+  width: 75%;
 }
 
 .HTML, .CSS, .JS {
@@ -179,13 +184,21 @@ body, html {
 
 .about-html, .about-css, .about-js {
   text-align: center;
-  width: 45%;
+  width: 70%;
   margin: 0 auto;
-  
+}
+
+.about-css{
+  width: 85%;
+}
+
+.about-js{
+  width: 75%;
 }
 
 .html-title, .css-title, .JS-title {
   padding-top: 30px;
+  
 }
 
 .after-logos {
@@ -254,6 +267,22 @@ body, html {
   }
 }
 
+@media(max-width: 1200px){
+  .front-logos{
+    display: block;
+    margin: 0 auto;
+  }
+  .html-info, .css-info, .js-info{
+    width: 100%;
+  }
+  
+  .about-html, .about-css, .about-js {
+    text-align: center;
+    width: 55%;
+    margin: 0 auto;
+  }
+}
+
 @media(max-width: 950px) {
   .menu-list {
     margin: 0 auto;
@@ -280,7 +309,3 @@ body, html {
     width: 100%;
   }
 }
-
-
-
-
