@@ -22,7 +22,7 @@ body, html {
 
 .title {
   text-align: center;
-  padding-top: 80px;
+  padding-top: 50px;
 }
 
 .title-text {
@@ -240,7 +240,8 @@ body, html {
 
 .to-start {
   padding-top: 50px;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
+  font-size: 14px;
 }
 
 .to-start a {
